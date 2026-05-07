@@ -1,7 +1,7 @@
 ## Description
 A 3D mini-game created with C++ and an OpenGL-based API from my University.  
 It involved working with meshes, shaders, text renders and camera movement.  
-The source code I wrote is found in [this directory](./src/lab_m1/Tema2/).  
+The source code I wrote is found in [this directory](./src/lab_m1/Tema2/). 
 
 
 ## How to Run the Game  
