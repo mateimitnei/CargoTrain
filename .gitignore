@@ -1,0 +1,6 @@
+build*
+.vscode
+/**/bin
+/**/.vs
+/**/obj
+components_hidden
